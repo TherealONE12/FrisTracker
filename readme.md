@@ -1,4 +1,4 @@
-# FrisTracker - Track YOur Games. Solve Conflicts. Optimise your strategies.
+# FrisTracker - Track Your Games. Solve Conflicts. Optimise your strategies.
 
 Fristracker is an Frisbee Tracking device, supporting Live GPS data transmitting.
 
