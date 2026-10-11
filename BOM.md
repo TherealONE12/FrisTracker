@@ -21,7 +21,7 @@
 | [SMA edge Connector](https://www.digikey.com/en/products/detail/rf-solutions/CON-SMA-EDGE-S/5845767) | SO I can connect the GPS module to my board | 1 | $2.75 | $2.75 | [DigiKey](https://www.digikey.com/en/products/detail/rf-solutions/CON-SMA-EDGE-S/5845767) |
 | [GPS Antenna](https://de.aliexpress.com/item/1005011825255793.html?spm=a2g0o.productlist.main.1.77f82f71t43VZ7&algo_pvid=c6e3a7c4-c70b-49d1-b2e4-24a4b2d980ce&algo_exp_id=c6e3a7c4-c70b-49d1-b2e4-24a4b2d980ce-0&pdp_ext_f=%7B%22order%22%3A%2220%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%210.49%210.49%21%21%213.29%213.28%21%402103973d17917512803872582e108d%2112000056703831687%21sea%21AT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ab82bc3db%3Bm03_new_user%3A-29895&curPageLogUid=YxieaCTCMWxG&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011825255793%7C_p_origin_prod%3A) | TO receif the GPS signals - Inactive | 1 | $0.94 | $0.94 | [Aliexpress](https://de.aliexpress.com/item/1005011825255793.html?spm=a2g0o.productlist.main.1.77f82f71t43VZ7&algo_pvid=c6e3a7c4-c70b-49d1-b2e4-24a4b2d980ce&algo_exp_id=c6e3a7c4-c70b-49d1-b2e4-24a4b2d980ce-0&pdp_ext_f=%7B%22order%22%3A%2220%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%210.49%210.49%21%21%213.29%213.28%21%402103973d17917512803872582e108d%2112000056703831687%21sea%21AT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ab82bc3db%3Bm03_new_user%3A-29895&curPageLogUid=YxieaCTCMWxG&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011825255793%7C_p_origin_prod%3A) |
 | **Parts subtotal** | — | — | — | **$43.94** | — |
-| **Tax & shipping** | — | — | — | **$20.00** | — |
-| **Total** | — | — | — | **$63.94** | — |
+| **Tax & shipping** | — | — | — | **$25.00** | — |
+| **Total** | — | — | — | **$68.94** | — |
 
-$1.06 left of the tier's funding.
+**$3.94 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
