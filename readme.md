@@ -2,6 +2,9 @@
 
 Fristracker is an Frisbee Tracking device, supporting Live GPS data transmitting.
 
+<img width="762" height="660" alt="image" src="https://github.com/user-attachments/assets/878ac138-6a1c-410c-b116-b8a4a50f515a" />
+
+
 ## The Idea
 
 This Hadeware projekt aims to connect an microcontroller (ESP32 PICO v3 02) with GPS using an Neo 6M Chip and sending the computed data to 
