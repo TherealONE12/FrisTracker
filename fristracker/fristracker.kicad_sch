@@ -3978,6 +3978,12 @@
 		(uuid "1aa3fad1-4eb0-4a1d-a9c7-f44512d2ca99")
 	)
 	(junction
+		(at 82.55 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "478f434b-6014-47f1-9b35-070c00c21b1d")
+	)
+	(junction
 		(at 194.31 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4000,12 +4006,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "723facb2-0126-49a5-bd6e-f5e1b4d40c66")
-	)
-	(junction
-		(at 82.55 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "75686bca-4d62-4037-8444-bbb53b89e388")
 	)
 	(junction
 		(at 82.55 50.8)
@@ -4063,16 +4063,6 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 40.64) (xy 82.55 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "127a7c89-b4d7-4979-81b3-62bd3b1450aa")
-	)
-	(wire
-		(pts
 			(xy 26.67 86.36) (xy 26.67 58.42)
 		)
 		(stroke
@@ -4110,16 +4100,6 @@
 			(type default)
 		)
 		(uuid "19403ccd-66c9-41ff-a28d-66f16932d057")
-	)
-	(wire
-		(pts
-			(xy 82.55 40.64) (xy 66.04 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "195152f5-3be5-437e-8b2a-bae30c4cb53f")
 	)
 	(wire
 		(pts
@@ -4313,6 +4293,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 41.91) (xy 82.55 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d5dcf66-1b1e-4683-a3cc-d5daa6c43f67")
+	)
+	(wire
+		(pts
 			(xy 30.48 81.28) (xy 30.48 74.93)
 		)
 		(stroke
@@ -4440,6 +4430,16 @@
 			(type default)
 		)
 		(uuid "9285f937-b647-4f7b-b2e7-5b82f4477dd9")
+	)
+	(wire
+		(pts
+			(xy 82.55 41.91) (xy 82.55 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9806bb94-5c67-4628-a5a5-41e381f058e2")
 	)
 	(wire
 		(pts
@@ -4583,7 +4583,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 13.97) (xy 82.55 40.64)
+			(xy 82.55 13.97) (xy 82.55 41.91)
 		)
 		(stroke
 			(width 0)
@@ -4974,7 +4974,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
 			(at 112.522 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -5170,7 +5170,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Capacitor_THT_AKL:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "PCM_Capacitor_THT_AKL:CP_Radial_Tantal_D5.0mm_P5.00mm"
 			(at 199.39 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -5665,7 +5665,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_SparkFun-Semiconductor-Standard:WDFN-6_2x2mm"
+		(property "Footprint" "PCM_Capacitor_THT_US_AKL:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 48.26 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -5863,7 +5863,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
 			(at 71.882 91.44 0)
 			(hide yes)
 			(show_name no)
