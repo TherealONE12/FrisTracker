@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"1uF";;;
+2;"C2, C4";"C_Disc_D4.3mm_W1.9mm_P5.00mm";2;"1uF";;;
+3;"C3";"CP_Radial_Tantal_D5.0mm_P5.00mm";1;"100uF";;;
+4;"P1";"Conn_USB_A_Plain";1;"Conn_USB_A_Plain";;;
+5;"R1, R2";"R_0603_1608Metric";2;"10k";;;
+6;"SW1";"Button_Omron_B3SN_6.0x6.0mm";1;"Switch_Tactile_Omron";;;
+7;"U1";"ESP32-PICO-MINI";1;"ESP32-PICO-V3-02";;;
+8;"U3";"MSOP-10_3x3mm_P0.5mm";1;"CH340E";;;
+9;"U4";"WDFN-6_2x2mm";1;"TLV75733PDRV";;;
+10;"U5";"COMM-TH_L41.0-W15.5-P2.54_NRF24L01";1;"NRF24L01+PA+LNA";;;
